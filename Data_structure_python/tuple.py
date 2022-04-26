@@ -1,6 +1,7 @@
 #tuple is immutable which means onces created ,we cannot add, remove or modify the data inside it
 # It is collection of heterogenous - string, int, float,boolean
 # It non-primitive data type - basically built in data structure
+#it is enclosed wthin ()
 
 T1 = (1,"a",True,"b",3,4.5)
 print(T1)
