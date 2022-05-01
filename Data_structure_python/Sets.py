@@ -12,7 +12,7 @@ print(s1)
 s1.add(False)
 print(s1)
 
-# add supports onl one element
+# add supports only one element
 s1.add(True)
 print(s1)
 s1.add("Toshi")
